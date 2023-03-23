@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
 
-- 🌱 I’m currently learning **Full Stack Mern Development, Frontend**
+- 🌱 I’m currently learning **Mern Full Stack Development, Frontend Development**
 
 - 💬 Ask me about **Web Development**
 
