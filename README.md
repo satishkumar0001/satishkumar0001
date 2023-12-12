@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/satishkumar001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satishkumar001" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/satish kumar bheri](https://www.linkedin.com/in/satish-kumar-bheri-%F0%9F%87%AE%F0%9F%87%B3-3265a1234/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satish kumar bheri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/satish-kumar-bheri-%F0%9F%87%AE%F0%9F%87%B3-3265a1234/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satish kumar bheri" height="30" width="40" /></a>
 <a href="https://instagram.com/detective_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="detective_001" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/satish kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="satish kumar" height="30" width="40" /></a>
 </p>
